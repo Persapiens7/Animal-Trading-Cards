@@ -1,0 +1,31 @@
+/* add your CSS here */
+.box_1 {
+  width: 321px;
+  height: 510px;
+  border: 1px solid black;
+  box-shadow: 4px 4px 4px #aaa;
+}
+
+h2 {
+  margin: 10px;
+}
+
+img {
+  margin: 10px;
+}
+
+.box_2 {
+  width: 298px;
+  height: 215px;
+  border: 1px solid black;
+  font: 10pt Times;
+  margin: 10px;
+}
+
+p {
+  margin: 8px;
+}
+
+li {
+  list-style-type: none;
+}
